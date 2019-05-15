@@ -1,0 +1,6 @@
+D:\ASP.net\MovieTicket\Common\bin\Debug\Common.dll
+D:\ASP.net\MovieTicket\Common\bin\Debug\Common.pdb
+D:\ASP.net\MovieTicket\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\ASP.net\MovieTicket\Common\obj\Debug\Common.dll
+D:\ASP.net\MovieTicket\Common\obj\Debug\Common.pdb
+D:\ASP.net\MovieTicket\Common\obj\Debug\Common.csprojAssemblyReference.cache
